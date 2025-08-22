@@ -16,12 +16,15 @@
     "cors": "^2.8.5",
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
+    "knex": "^3.1.0",
     "multer": "^2.0.2",
-    "pdf-parse": "^1.1.1"
+    "pdf-parse": "^1.1.1",
+    "sqlite3": "^5.1.7"
   },
   "devDependencies": {
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.3",
+    "@types/knex": "^0.15.2",
     "@types/multer": "^2.0.0",
     "@types/node": "^24.3.0",
     "@types/pdf-parse": "^1.1.5",
